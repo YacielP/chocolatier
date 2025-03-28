@@ -1,0 +1,22 @@
+[
+    {
+        "model": "productos.producto",
+        "pk": 1,
+        "fields": {
+            "nombre": "Combo de Chocolates",
+            "descripcion": "Una selección de chocolates surtidos.",
+            "precio": "20.00",
+            "categoria": "Combos"
+        }
+    },
+    {
+        "model": "productos.producto",
+        "pk": 2,
+        "fields": {
+            "nombre": "Chocolate Individual",
+            "descripcion": "Un delicioso chocolate artesanal.",
+            "precio": "2.50",
+            "categoria": "Individuales"
+        }
+    }
+]
